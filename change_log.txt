@@ -1,0 +1,12 @@
+revision 1.1:
+-changed name "ingredient" to "item" for tables and columns. It is more descriptive for our application
+-corrected spelling of "recipe" from "receipe"
+
+revision 1.0: 
+-create 6 tables used for application 
+
+revision 0.9
+-create a inventory table
+
+
+
